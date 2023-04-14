@@ -1,12 +1,12 @@
 # Welcome to the Candidate Application
 
-# This repository is a sandbox for future developers that applied for the back-end developer position at Scentcraft INC.
+This repository is a sandbox for future developers that applied for the back-end developer position at Scentcraft INC.
 
 ## Getting Started
 
-## These instructions will help you understand better what's ahead of you!
+### These instructions will help you understand better what's ahead of you!
 
-## Required Knowledge
+### Required Knowledge
 
     TypeScript
     Nodejs
@@ -15,23 +15,19 @@
     Database knowledge(NoSQL/SQL, Graph)
     AWS
 
-# Prerequisites
+### Prerequisites
 
     Node Installed
     Git Installed
     Browser
 
-# Installing
+### Interview Prerequises
 
-# Interview Prerequises
+Camera, we'd like to see with whom are we going to work (must!)
+Sharing Screen is mandatory during the short coding interview.
+Code editor on one side and browser on the other.
 
-    Camera, we'd like to see with whom are we going to work (must!)
-    Sharing Screen is mandatory during the short coding interview.
-    Code editor on one side and browser on the other.
-
-# Importance: Visual indentification is important to us. Minors are applying for jobs etc. We will call you with a video enabled.
-
-    Example Screen during the interview
+### Importance: Visual indentification is important to us. Minors are applying for jobs etc. We will call you with a video enabled.
 
 # About Interview Questions and Test itself
 
@@ -54,14 +50,14 @@ There will be 4 tasks ahead of you. Don't worry this is not 'leetcode' or 'adven
 
     🛑 Chat-GPT-3 IS NOT ALLOWED !! Github Copilot is not allowed! 🛑
 
-# Importance
+## Importance
 
     showing live troubleshooting, tought process and live usage of Search Engines
     filtering out candidates
 
 # RULES
 
-# DO NOT use any of the libraries that are not installed in the project
+DO NOT use any of the libraries that are not installed in the project
 
     This test will show your current knowledge of Next and TypeScript
     Don't worry too much if you don't know the question try to explain it the best way you can :)

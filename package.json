@@ -1,0 +1,12 @@
+{
+  "name": "candidate-repo",
+  "version": "1.0.0",
+  "description": "TypeScript\r     Nodejs\r     GraphQL/REST API\r     Backend knowledge\r     Database knowledge(NoSQL/SQL, Graph)\r     AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
